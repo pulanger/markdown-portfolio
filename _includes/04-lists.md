@@ -1,10 +1,3 @@
-### Impotant List
-1. Family
-2. Health
-3. Life
-4. Work
-
-### Folder List
 1. Work
    1. LC
    2. SR
@@ -21,8 +14,3 @@
    10. English
 3. Life
 4. Joy
-
-#### Unordered List
-* Economic
-  * bitcoin
-  * shares
